@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoorLock_2.3", "DoorLock_2.3\DoorLock_2.3.vcxproj", "{6BFD22F1-1E1C-48C8-8482-B364CE3B6179}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoorLock_2.3", "DoorLock_2.3\DoorLock_2.3.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoorLock_3.0", "DoorLock_3.0\DoorLock_3.0.vcxproj", "{634E3FEA-341C-4021-809A-3CE723338F7E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoorLock_3.0", "DoorLock_3.0\DoorLock_3.0.vcxproj", "{A36F3994-36AF-4B7C-A99C-3B48F82F92D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6BFD22F1-1E1C-48C8-8482-B364CE3B6179}.Debug|x86.ActiveCfg = Debug|Win32
-		{6BFD22F1-1E1C-48C8-8482-B364CE3B6179}.Debug|x86.Build.0 = Debug|Win32
-		{6BFD22F1-1E1C-48C8-8482-B364CE3B6179}.Release|x86.ActiveCfg = Release|Win32
-		{6BFD22F1-1E1C-48C8-8482-B364CE3B6179}.Release|x86.Build.0 = Release|Win32
-		{634E3FEA-341C-4021-809A-3CE723338F7E}.Debug|x86.ActiveCfg = Debug|Win32
-		{634E3FEA-341C-4021-809A-3CE723338F7E}.Debug|x86.Build.0 = Debug|Win32
-		{634E3FEA-341C-4021-809A-3CE723338F7E}.Release|x86.ActiveCfg = Release|Win32
-		{634E3FEA-341C-4021-809A-3CE723338F7E}.Release|x86.Build.0 = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+		{A36F3994-36AF-4B7C-A99C-3B48F82F92D3}.Debug|x86.ActiveCfg = Debug|Win32
+		{A36F3994-36AF-4B7C-A99C-3B48F82F92D3}.Debug|x86.Build.0 = Debug|Win32
+		{A36F3994-36AF-4B7C-A99C-3B48F82F92D3}.Release|x86.ActiveCfg = Release|Win32
+		{A36F3994-36AF-4B7C-A99C-3B48F82F92D3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
