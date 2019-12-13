@@ -7,8 +7,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoorLock_2.3", "DoorLock_2.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoorLock_3.0", "DoorLock_3.0\DoorLock_3.0.vcxproj", "{A36F3994-36AF-4B7C-A99C-3B48F82F92D3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DOORLOCK2.3", "DOORLOCK2.3\DOORLOCK2.3.vcxproj", "{1067BE80-F7C3-4797-BD18-5466646AC859}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -23,10 +21,6 @@ Global
 		{A36F3994-36AF-4B7C-A99C-3B48F82F92D3}.Debug|x86.Build.0 = Debug|Win32
 		{A36F3994-36AF-4B7C-A99C-3B48F82F92D3}.Release|x86.ActiveCfg = Release|Win32
 		{A36F3994-36AF-4B7C-A99C-3B48F82F92D3}.Release|x86.Build.0 = Release|Win32
-		{1067BE80-F7C3-4797-BD18-5466646AC859}.Debug|x86.ActiveCfg = Debug|Win32
-		{1067BE80-F7C3-4797-BD18-5466646AC859}.Debug|x86.Build.0 = Debug|Win32
-		{1067BE80-F7C3-4797-BD18-5466646AC859}.Release|x86.ActiveCfg = Release|Win32
-		{1067BE80-F7C3-4797-BD18-5466646AC859}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
